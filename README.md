@@ -20,6 +20,6 @@
 * 实物：
 
 ![image](https://github.com/TheRoadToReality/STM32Blance_car/blob/main/asset/3d.png#pic_center)
-![image](https://github.com/TheRoadToReality/STM32Blance_car/blob/main/asset/car.jpj#pic_center)
+![image](https://github.com/TheRoadToReality/STM32Blance_car/blob/main/asset/car.jpg#pic_center)
   
 * 功能介绍 
