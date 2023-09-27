@@ -1,12 +1,12 @@
 # STM32Blance_car
 * 简介：
 ```bash
-MCU:STM32F103C8t6
-IDE:keil 5
-Bluetooth:HC-05
-OLED:0.96寸OLED
-三轴传感器:MPU6050
-MotorDrive:DRV8863PWR
+* MCU:STM32F103c8t6
+* IDE:keil 5
+* Bluetooth:HC-05
+* OLED:0.96寸OLED
+* 三轴传感器:MPU6050
+* MotorDrive:DRV8863PWR
 四层板处理
 ```
 * TOPlayer:
